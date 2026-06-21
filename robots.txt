@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /nexus-ai/
+
+Sitemap: https://nexusaioocw.github.io/nexus-ai/sitemap2.xml
